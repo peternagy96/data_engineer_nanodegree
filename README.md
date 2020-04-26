@@ -6,7 +6,7 @@ This is a repo of my solutions for the [Udacity Data Engineering Nanodegree](htt
 
 ### 1. Data Modeling
 
-- **Project 1a:** [Postgres](project_01a//)
+- **Project 1a:** [Postgres](project_01a/)
 - **Project 1b:** [Apache Cassandra](project_01b/)
 
 ### 2. Cloud Data Warehouses
